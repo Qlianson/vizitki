@@ -29,6 +29,7 @@
 }
 
 body {
+    min-height: 100vh;
     padding: 50px 0 50px 0;
     background: linear-gradient(180deg, rgba(227, 70, 69, 0.00) 58.23%, #1E1E1E 104.14%), url(../images/background.svg) no-repeat;
 }
@@ -49,7 +50,7 @@ a {
     margin: 0 auto;
 }
 .photo {
-    width: 100%;
+    width: 36%;
     display: block;
     margin: 48px auto 0 auto;
     text-align: center;
